@@ -32,7 +32,7 @@
 }
 
 .main{
-    background-color: rgb(38, 35, 35);
+    background-color: rgb(62, 57, 57);
     width: 100vw;
     height: 100vh;
     color: white;
@@ -43,7 +43,7 @@
 }
 
 .infocontainer{
-    background-color: black;
+    background-color: rgb(48, 42, 42);
     color: white;
     height: 68vh;
     width: 80vw;
